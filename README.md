@@ -1,6 +1,6 @@
 # JS 开发技巧
 
-> 本文档是在 [灵活运用JS开发技巧](https://juejin.im/post/5cc7afdde51d456e671c7e48) 基础下增加而来，主要做为 JS 开发文档使用.
+> 本文档是在 [灵活运用JS开发技巧](https://juejin.im/post/5cc7afdde51d456e671c7e48) 文档基础下扩展而来，主要做为 JS 开发技巧记录使用.
 
 ## 目录说明
 
@@ -19,3 +19,6 @@
 + 代码只作演示用途，不会详细说明ES6语法
 + 如有不明白的语法问题请参考阮一峰老师的[《ECMAScript 6 入门》](https%3A%2F%2Fes6.ruanyifeng.com)
 + 《ECMAScript 6 入门》一直保持更新，建议收藏，平时查看。
+
+## 参考资料
++ [灵活运用JS开发技巧](https://juejin.im/post/5cc7afdde51d456e671c7e48)
