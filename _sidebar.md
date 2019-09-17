@@ -20,3 +20,5 @@
 
 + DOM 技巧
   + [事件处理(on off trigger)](docs/dom-skill/01-event-handle)
+  + [本地存储(不包括cookie)封装](docs/dom-skill/02-pure-local-store)
+  + [浏览器全屏解决方案]()
