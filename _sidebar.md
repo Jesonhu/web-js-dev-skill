@@ -12,6 +12,8 @@
   + [数组(keyValues)转换为对象](docs/array-skill/01-array-keyvalues-to-obj)
 
 + 对象技巧
+  + [对象拷贝--待完善](docs/object-skill/01-clone)
+  + [字段转换](docs/object-skill/02-name-transform)
 
 + 函数技巧
 
