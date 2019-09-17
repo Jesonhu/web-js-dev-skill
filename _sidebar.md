@@ -4,12 +4,12 @@
   + [资源添加基础域](docs/string-skill/02-assets-add-base)
 
 + 数值技巧
-  + [a1]()
-  + [a2]()
+  + [集合](docs/number-skill/01-util)
 
 + 布尔值技巧
 
 + 数组技巧
+  + [数组(keyValues)转换为对象](docs/array-skill/01-array-keyvalues-to-obj)
 
 + 对象技巧
 
