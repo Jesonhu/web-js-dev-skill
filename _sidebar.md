@@ -1,7 +1,8 @@
 
 + 字符串技巧
   + [对比时间](docs/string-skill/01-compare-time)
-  + [资源添加基础域](docs/string-skill/02-assets-add-base)
+  + [日期格式化](docs/string-skill/02-data-format)
+  + [资源添加基础域](docs/string-skill/03-assets-add-base)
 
 + 数值技巧
   + [集合](docs/number-skill/01-util)
