@@ -1,0 +1,22 @@
+{
+  "name": "js_dev_skill",
+  "version": "1.0.0",
+  "description": "JS 开发技巧汇总文档",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs": "docsify serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jesonhu/web-js-dev-skill.git"
+  },
+  "author": "Jesonhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jesonhu/web-js-dev-skill/issues"
+  },
+  "homepage": "https://github.com/Jesonhu/web-js-dev-skill#readme"
+}
