@@ -6,13 +6,13 @@
 
 既然写文章有这么多的写作技巧，那么我也需要对JS开发技巧整理一下，起个易记的名字。
 
-+ **String Skill**：字符串技巧
-+ **Number Skill**：数值技巧
-+ **Boolean Skill**：布尔值技巧
-+ **Array Skill**：数组技巧
-+ **Object Skill**：对象技巧
-+ **Function Skill**：函数技巧
-+ **DOM Skill**：DOM 技巧
++ **String Skill**：<font color=#f66>字符串技巧</font>
++ **Number Skill**：<font color=#66f>数值技巧</font>
++ **Boolean Skill**：<font color=#f90>布尔值技巧</font>
++ **Array Skill**：<font color=#09f>数组技巧</font>
++ **Object Skill**：<font color=#3c9>对象技巧</font>
++ **Function Skill**：<font color=#9c3>函数技巧</font>
++ **DOM Skill**：<font color=#999>DOM 技巧</font>
 
 备注
 
