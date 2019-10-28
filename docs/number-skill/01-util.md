@@ -29,3 +29,38 @@ function getPercentNumber(molecular, denominator) {
 输入: getPercentNumber(3, '5')
 输出：60%
 ```
+
++ **方法2**
+
+```js
+function getPercent(num) {
+  return num * 100 | 0;
+}
+```
+
+```js
+输入: getPercentNumber(0.1)
+输入: getPercentNumber('0.1')
+输出：10
+
+输入: getPercentNumber(0.1311)
+输出：13
+
+输入: getPercentNumber(1)
+输出：100
+```
+
+## 随机数
+
++ 方式1: **指定区间的随机数**
+
+```js
+function randomNum(start, end) {
+  return Math.round( Math.random() * (end - start) + start );
+}
+```
+
+```
+输入: randomNum(3, 9)
+输出: 3 ~ 9 之间的整数，包括 3 和 9
+```
