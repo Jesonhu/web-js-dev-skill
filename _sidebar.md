@@ -1,4 +1,3 @@
-
 + 字符串技巧
   + [对比时间](docs/string-skill/01-compare-time.md)
   + [日期格式化](docs/string-skill/02-data-format.md)
@@ -22,10 +21,10 @@
 + DOM 技巧
   + [事件处理(on off trigger)](docs/dom-skill/01-event-handle.md)
   + [本地存储(不包括cookie)封装](docs/dom-skill/02-pure-local-store.md)
-  + [浏览器全屏解决方案]()
+  + [浏览器全屏解决方案](docs/dom-skill/03-fullscreen.md)
 
 + 功能与集合(轮子)
   + [表单验证](docs/util/form-validate.md)
-  + [资源预加载器]()
+  + [资源预加载器](https://gitee.com/weblife/beat-egg/blob/master/lib/res/fehelper-res.js)
   + [微信分享](docs/util/wx-share.md)
-  + [微信网页授权](docs/utils/wx-auth.md)
+  + [微信网页授权](docs/util/wx-auth.md)

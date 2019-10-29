@@ -55,6 +55,7 @@
  * @param {Function} cb 处理回调
  */
 function validater(rules, validatedData, cb) {
+  // format data
   let formatRules = [];
   formatRules = rules.map((item, index, array) => {
     // add value
@@ -68,7 +69,8 @@ function validater(rules, validatedData, cb) {
     return item;
   });
 
-  const valideter = (formatRules) => {
+  // validate data.
+  const validete = (formatRules) => {
     const msgArr = [];
     const len = formatRules.length;
     for (let i = 0; i < len; i++) {
@@ -85,7 +87,7 @@ function validater(rules, validatedData, cb) {
     return msgArr;
   }
 
-  let errorMsgArr = valideter(formatRules);
+  const errorMsgArr = validete(formatRules);
 
   if (cb && cb instanceof Function) cb(errorMsgArr);
 }
