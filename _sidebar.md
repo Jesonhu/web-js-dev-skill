@@ -22,9 +22,13 @@
   + [事件处理(on off trigger)](docs/dom-skill/01-event-handle.md)
   + [本地存储(不包括cookie)封装](docs/dom-skill/02-pure-local-store.md)
   + [浏览器全屏解决方案](docs/dom-skill/03-fullscreen.md)
+  + [表单相关](docs/dom-skill/04-form.md)
 
-+ 功能与集合(轮子)
++ 组件与轮子
   + [表单验证](docs/util/form-validate.md)
   + [资源预加载器](docs/util/res.md)
-  + [微信分享](docs/util/wx-share.md)
-  + [微信网页授权](docs/util/wx-auth.md)
+  + [微信分享](docs/util/wx/wx-share.md)
+  + [微信网页授权](docs/util/wx/wx-auth.md)
+  + [Vue-车牌号键盘组件](docs/util/vue/vue-car-input.md)
+  + [Vue-日历组件](docs/util/vue/vue-event-calendar.md)
+  + [Vue-sideMenu 组件](docs/util/vue/vue-side-menu.md)
