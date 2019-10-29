@@ -25,6 +25,6 @@
 
 + 功能与集合(轮子)
   + [表单验证](docs/util/form-validate.md)
-  + [资源预加载器](https://gitee.com/weblife/beat-egg/blob/master/lib/res/fehelper-res.js)
+  + [资源预加载器](docs/util/res.md)
   + [微信分享](docs/util/wx-share.md)
   + [微信网页授权](docs/util/wx-auth.md)
