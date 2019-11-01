@@ -126,3 +126,4 @@ hello.off('hello', function fn2() {
 
 + [greensock-EventDispatcher](https://github.com/greensock/GreenSock-JS/blob/86b54d1c70237daeb754f6be8b5d9ee4f4c9cbe2/src/uncompressed/TweenLite.js#L216)
 + [createjs-EventDispatcher](http://www.createjs.cc/src/docs/preloadjs/files/createjs_events_EventDispatcher.js.html#l41)
++ [Web-Events-MDN-DOC](https://developer.mozilla.org/zh-CN/docs/Web/Events)
